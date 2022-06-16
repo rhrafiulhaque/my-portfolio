@@ -3,7 +3,7 @@ p{
     padding: 0;
 }
 .inner-img{
-    background-image: url('/img/coding.jpg');
+    background-image: url('./img/coding.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
